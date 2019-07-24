@@ -1,0 +1,13 @@
+﻿<library>
+<book>
+<title>Databases for Dummies</title>
+<author>Kubrick</author>
+<author>Spielberg</author>
+</book>
+<journal vol="207">
+<title>Databases for Smarties</title>
+</journal>
+<journal vol="301">
+<title>International Journal on Databases</title>
+</journal>
+</library>
